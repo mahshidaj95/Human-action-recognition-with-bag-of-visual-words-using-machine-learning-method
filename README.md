@@ -1,4 +1,4 @@
-# Human action recognition with bag of visual words using different machine learning methods
+# Human action recognition with bag of visual words using machine learning method
 In this project, we implement the proposed method of ISA article in the title of "Human action recognition with bag of visual words using different machine learning methods and hyperparameter optimization" with DOI: https://doi.org/10.1007/s00521-019-04365-9 
 
 Dataset link: https://www.wisdom.weizmann.ac.il/~vision/SpaceTimeActions.html 
