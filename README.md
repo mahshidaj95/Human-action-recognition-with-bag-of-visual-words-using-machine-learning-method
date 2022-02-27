@@ -11,7 +11,7 @@ We implemented this article in below steps:
 
 3. Clustering: using K-means clustering.
 
-4. Histogram Creation
+4. Histogram Creation.
 
 5. Machine learning Classification: using KNN method.
 
